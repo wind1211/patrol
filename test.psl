@@ -1,0 +1,4 @@
+if(!exists("/app/appinstance")){
+  create("/app/appinstance","appinstance"," ",OK);
+}
+#my first PSL file
